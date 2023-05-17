@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nombres Actividad</string>
+    <string name="dialog_title">Datos</string>
+    <string name="dialog_ok">limpiar</string>
+    <string name="help_required">Obligatorio</string>
+    <string name="hint_apellidos">Apellidos</string>
+    <string name="Obligatory">Obligatorio</string>
+    <string name="hint_name">Nombre</string>
+    <string name="help_height_min">altura minima 50cm</string>
+    <string name="dialog_cancel">cancelar</string>
+</resources>
